@@ -1,5 +1,7 @@
 # React In-class Exam, November 2024
 
+Shaohua Xu, 20108871
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
